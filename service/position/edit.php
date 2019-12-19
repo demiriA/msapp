@@ -1,12 +1,28 @@
 <?php
 if (isset($_COOKIE['logged'])){ $user = $_COOKIE['logged'];} else {header("Location: /login.php?auth=false");}
 
-    $positionName = "Administrator";
+    include_once '../../inc/database.php';
+    $id = $_GET["id"];
+
+    $sql = ' SELECT * FROM `table_position` WHERE `position_id`= :id ';
+    $statement = $pdo->prepare($sql);
+    $statement->execute([':id'=>$id]);
+    $position = $statement->fetch(PDO::FETCH_OBJ);
+
+    $positionName = $position->name;
 
     if(isset($_POST['positionName'])){
         $positionName = $_POST['positionName'];
 
-        echo $positionName;
+        $sql ='UPDATE `table_position` SET `name` = :pname WHERE `position_id` =:id';
+        $statement = $pdo->prepare($sql);
+        if ($statement->execute([':id'=>$id, ':pname'=>$positionName])){
+            header("Location: /service/position/edit.php?id=".$id);
+            echo "<script>alert('Position name updated!')</script>";
+        }else{
+            echo "<script>alert('Position name cannot be updated!')</script>";
+        }
+
     }
 
 ?>
