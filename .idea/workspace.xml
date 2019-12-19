@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1bc67d0-8d1b-423b-897d-a0b4fdb268ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Albin Baftijarovski &lt;baftijarovski.a@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1UcHMc6kBW089ji5d8Z1QNflmJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/php/php.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Albin\PhpstormProjects\mobile-service-app\inc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1bc67d0-8d1b-423b-897d-a0b4fdb268ee" name="Default Changelist" comment="" />
+      <created>1575648916646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575648916646</updated>
+      <workItem from="1575648917816" duration="108000" />
+      <workItem from="1575649080125" duration="40000" />
+      <workItem from="1575649129091" duration="4256000" />
+      <workItem from="1575671223604" duration="1359000" />
+      <workItem from="1576100164723" duration="183000" />
+      <workItem from="1576185683818" duration="14364000" />
+      <workItem from="1576247147037" duration="186000" />
+      <workItem from="1576248489305" duration="4105000" />
+      <workItem from="1576272831865" duration="10204000" />
+      <workItem from="1576364242799" duration="9548000" />
+      <workItem from="1576433073023" duration="168000" />
+      <workItem from="1576434189674" duration="481000" />
+      <workItem from="1576448205585" duration="158000" />
+      <workItem from="1576503653858" duration="79000" />
+      <workItem from="1576535925050" duration="7610000" />
+      <workItem from="1576672324590" duration="894000" />
+      <workItem from="1576673302502" duration="8757000" />
+    </task>
+    <task id="LOCAL-00001" summary="public page customized">
+      <created>1576379151856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576379151856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="public page customized">
+      <created>1576379174051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576379174051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="public page customized" />
+    <option name="LAST_COMMIT_MESSAGE" value="public page customized" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="145" key="#PHP" timestamp="1575649154692">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="667" y="145" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1575649154692" />
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576364292734">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576364292734" />
+    <state x="640" y="282" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575649116447">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="640" y="282" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1575649116447" />
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576201775176">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="690" y="301" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576201775176" />
+    <state x="585" y="149" key="CommitChangelistDialog2" timestamp="1576379173462">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="585" y="149" key="CommitChangelistDialog2/0.30.1920.1050@0.30.1920.1050" timestamp="1576379173462" />
+    <state x="740" y="309" key="FileChooserDialogImpl" timestamp="1576199468902">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576199468902" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576503733042">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1576503733042" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576503733042">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1576503733042" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576503733042">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1576503733042" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576503733042">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1576503733042" />
+    <state x="794" y="478" key="NewPhpFileDialog" timestamp="1576536054173">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="794" y="478" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576536054173" />
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2" timestamp="1576379176521">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="287" key="Vcs.Push.Dialog.v2/0.30.1920.1050@0.30.1920.1050" timestamp="1576379176521" />
+    <state x="769" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576379164933">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="769" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1920.1050@0.30.1920.1050" timestamp="1576379164933" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1576365916134">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1576365916134" />
+  </component>
+</project>
